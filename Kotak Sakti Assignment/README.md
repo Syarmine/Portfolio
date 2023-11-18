@@ -32,7 +32,7 @@ From the three tables in Appendix A
 - d. Show the SQL query for list of book purchased with the users
 You can attempt this question in any SQL based database (SQLSRV, MYSQL, OracleDB)
 
-![Image](https://github.com/users/Syarmine/projects/1/assets/121959422/bf6e1e88-06b8-44be-a413-28bd1812208b)
+![Image]([https://github.com/Syarmine/Portfolio/tree/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png))
 
 Generated relational database named `bookstore` with 3 tables named as `customers`, `invoices` and `invoiceslines` as showed as the following:-
 
