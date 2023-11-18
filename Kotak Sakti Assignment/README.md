@@ -36,10 +36,10 @@ You can attempt this question in any SQL based database (SQLSRV, MYSQL, OracleDB
 
 Generated relational database named `bookstore` with 3 tables named as `customers`, `invoices` and `invoiceslines` as showed as the following:-
 
-![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
-![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
-![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/2a.PNG)
+![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/2a1.PNG)
+![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/2a2.PNG)
 
-![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
-![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
-![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202b.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202c.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202d.png)
