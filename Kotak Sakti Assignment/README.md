@@ -36,12 +36,10 @@ You can attempt this question in any SQL based database (SQLSRV, MYSQL, OracleDB
 
 Generated relational database named `bookstore` with 3 tables named as `customers`, `invoices` and `invoiceslines` as showed as the following:-
 
-![Image](https://github.com/users/Syarmine/projects/1/assets/121959422/7f349c53-0103-4d4f-ae4a-90f7a7a2b9ba)
-![Image](https://github.com/users/Syarmine/projects/1/assets/121959422/144d71e7-acdc-484e-9d99-c435629b5365)
-![Image](https://github.com/users/Syarmine/projects/1/assets/121959422/5fd7b798-34bb-4bc9-857e-a0d1292b2b69)
+![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
 
-
-
-![Image](https://github.com/users/Syarmine/projects/1/assets/121959422/cda44fff-3825-45cb-9ff3-5375c6674708)
-![Image](https://github.com/users/Syarmine/projects/1/assets/121959422/5ebfd627-c5ac-4583-b239-40d6c1a6c8b9)
-![Image](https://github.com/users/Syarmine/projects/1/assets/121959422/012bfc9c-8737-4689-bcfc-d471379dbcf4)
+![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
