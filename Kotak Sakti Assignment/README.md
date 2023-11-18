@@ -42,4 +42,4 @@ Generated relational database named `bookstore` with 3 tables named as `customer
 
 ![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202b.png)
 ![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202c.png)
-![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202d.png)
+![Image](https://github.com/Syarmine/Portfolio/blob/500860354e01f49447c9af10fdf42aedb296bd78/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202d1.png)
