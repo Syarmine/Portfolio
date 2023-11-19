@@ -43,3 +43,23 @@ Generated relational database named `bookstore` with 3 tables named as `customer
 ![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202b.png)
 ![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202c.png)
 ![Image](https://github.com/Syarmine/Portfolio/blob/500860354e01f49447c9af10fdf42aedb296bd78/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202d1.png)
+
+## Question 4
+Megah Holdings Berhad is a diversified holding company in a few industries. Each industry has different best practices and different ERPimplementation methods.The revenue optimization team requires a dashboard which displays and analyses daily sales at the end of business day from three business units. Describe a data pipeline with the following input sources:
+- a. Retail company ERP - Real time API in XML
+- b. Chicken Broiler/Farm ERP - Hourly batch file generation in FTP server
+- c. Trading company ERP - Manual Excel files download
+
+1. Data ingestion
+- For (a): can use Python to consume the XML data from API. As it is semi-structured dataset, Python package `ElementTree` can be used to extract and consume the dataset. The XML format then converted to JSON using `xmltodict` Python The dataset then stored into a dictionary and dataframe, that can be utilised later in the pipeline.
+- For (b): The batch file generated can be ingested using Python `ftplib` and can be automated using cron job. 
+- For (c): for manual file upload, using Python dataframe 
+2. Data transformation and processing
+- For all of the datasets, may follow a _Extract_, _Transform_ and _Load_ schema. Once extracted according to each dataset, the data is transformed to according schema, quality and business rule. In this Megah Holding, we use csv file schema for later consumption by analyst.
+- This transformation can involve cleaning, aggregating, and structuring the data.
+- Finally, the transformed data is loaded into the target data warehouse or storage system, often in a format optimized for reporting and analytics.
+3. Data storage
+- we can export the transformed, structured dataset (i.e csv) into data lake or data warehouses or databases or using cloud solutions i.e Azure Data Factory
+4. Data analysis and visualisation
+  - end-user or data consumers can utilised the analytical storage datasets to create dashboards for the revenue optimisation team.
+  - Tools like PowerBI or Tableau can connect to data warehouse, data lake or data store that contains the multi-source datasets for visualisation.
