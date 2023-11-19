@@ -44,6 +44,12 @@ Generated relational database named `bookstore` with 3 tables named as `customer
 ![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202c.png)
 ![Image](https://github.com/Syarmine/Portfolio/blob/500860354e01f49447c9af10fdf42aedb296bd78/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202d1.png)
 
+## Question 3
+Based on Question 2, implement all queries and the ingestion/extraction process of Appendix A in Python.You can attempt this question in your own development workspace and share GitHub repository or gist URL.
+
+The following link redirecto Jupyter Notebook file, demonstrating the ingestion process:
+[Jupyter Notebook Kotak Sakti Assignment](https://github.com/Syarmine/Portfolio/blob/e32744767eb6df2285f472cf1ce430ef9270dd8c/Kotak%20Sakti%20Assignment/Kotak%20Sakti%20Assignment-checkpoint.ipynb)
+
 ## Question 4
 Megah Holdings Berhad is a diversified holding company in a few industries. Each industry has different best practices and different ERPimplementation methods.The revenue optimization team requires a dashboard which displays and analyses daily sales at the end of business day from three business units. Describe a data pipeline with the following input sources:
 - a. Retail company ERP - Real time API in XML
