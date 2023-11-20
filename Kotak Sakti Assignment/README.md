@@ -1,4 +1,4 @@
-# Data Analyst Application Question by Kotak Sakti
+# Data Analyst Assignment by Kotak Sakti
 
 ## Introduction
 As part of the application process for the Data Analyst role at Kotak Sakti, this document addresses a series of questions and tasks designed to demonstrate my skills and understanding in key areas relevant to the position. 
