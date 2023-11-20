@@ -34,6 +34,8 @@ You can attempt this question in any SQL based database (SQLSRV, MYSQL, OracleDB
 
 ![Image](https://github.com/Syarmine/Portfolio/blob/466830c563b2aabe3333f558a16f6b9873d3dca0/Kotak%20Sakti%20Assignment/SQL%20Images/Question%202a.png)
 
+![Image](https://github.com/Syarmine/Portfolio/blob/64d538efe31702a0dfadb2deecb6e9515a9243b3/Kotak%20Sakti%20Assignment/SQL%20Images/EER%20Diagram.png)
+
 Generated relational database named `bookstore` with 3 tables named as `customers`, `invoices` and `invoiceslines` as showed as the following:-
 
 ![Image](https://github.com/Syarmine/Portfolio/blob/45279de298a95d032a3bda2f810c3bf732c18ed1/Kotak%20Sakti%20Assignment/SQL%20Images/2a.PNG)
