@@ -9,6 +9,7 @@ I'm revealing a simple, yet powerful LinkedIn trick to improve your job applicat
 ## Problem Statement 
 
 Imagine there are 1,000 candidates applying the same roles. 
+
 1. How do I improve my visibility and rank higher in a recruiter’s talent pool?
 2. What are the actionable steps?
 
