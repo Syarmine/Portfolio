@@ -6,26 +6,29 @@
 
 I'm revealing a simple, yet powerful LinkedIn trick to improve your job application success. Recruiters won't just notice you; they'll prioritize you - even with different background.
 
-## The Solution 
-I used PowerBI for a simple analysis due to the lack of a filter in the skills assessment section, for easier navigation for myself. Then I think why not share it via Fabric, perhaps it might benefit others as well.
-
-Feel free to explore!
-https://app.powerbi.com/view?r=eyJrIjoiOTgwZGIwMDYtMDc4OC00ODc0LTg3YWYtYTdkYzhhNDE5MTNiIiwidCI6IjA2ZmU4ZDk5LWJmYTItNDI5OC05YTAwLTg4OWVhNDUyZDdjYyIsImMiOjF9
-
-<iframe title="LinkedIn Assessment" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTgwZGIwMDYtMDc4OC00ODc0LTg3YWYtYTdkYzhhNDE5MTNiIiwidCI6IjA2ZmU4ZDk5LWJmYTItNDI5OC05YTAwLTg4OWVhNDUyZDdjYyIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
-
-
 ## Problem Statement 
 
 Imagine there are 1,000 candidates applying the same roles. 
 1. How do I improve my visibility and rank higher in a recruiter’s talent pool?
 2. What are the actionable steps?
 
+![Alt text](PowerBI_funnel-1.PNG)
+
 To do that, we need to understand:
 LinkedIn as a hiring platform. Keyword: algorithm!
 -  It is a well-known approach to fill in every detail on LinkedIn as accurately as possible - many have talked about this. How can you set yourself apart? 
 - So, do you know there is something call "demonstrate skills" in LinkedIn?
 - If you already know, have you attempted the free "demonstrate skills" section on LinkedIn?
+
+## The Solution 
+I used PowerBI for a simple analysis due to the lack of a filter in the skills assessment section, for easier navigation for myself. Then I think why not share it via Fabric, perhaps it might benefit others as well.
+
+![Alt text](PowerBI_report-1.PNG) 
+
+
+Feel free to explore!
+https://app.powerbi.com/view?r=eyJrIjoiOTgwZGIwMDYtMDc4OC00ODc0LTg3YWYtYTdkYzhhNDE5MTNiIiwidCI6IjA2ZmU4ZDk5LWJmYTItNDI5OC05YTAwLTg4OWVhNDUyZDdjYyIsImMiOjF9
+
 
 ## Context 
 LinkedIn, aimed at boosting hiring efficiency, introduced the Skill Assessment in 2019 to authenticate your skills. 
