@@ -13,7 +13,7 @@ Imagine there are 1,000 candidates applying the same roles.
 1. How do I improve my visibility and rank higher in a recruiter’s talent pool?
 2. What are the actionable steps?
 
-![Alt text](PowerBI_funnel-1.PNG)
+![Alt text](PowerBI_funnel.PNG) 
 
 To do that, we need to understand:
 LinkedIn as a hiring platform. Keyword: algorithm!
@@ -24,8 +24,7 @@ LinkedIn as a hiring platform. Keyword: algorithm!
 ## The Solution 
 I used PowerBI for a simple analysis due to the lack of a filter in the skills assessment section, for easier navigation for myself. Then I think why not share it via Fabric, perhaps it might benefit others as well.
 
-![Alt text](PowerBI_report-1.PNG) 
-
+![Alt text](PowerBI_report.PNG)
 
 Feel free to explore!
 https://app.powerbi.com/view?r=eyJrIjoiOTgwZGIwMDYtMDc4OC00ODc0LTg3YWYtYTdkYzhhNDE5MTNiIiwidCI6IjA2ZmU4ZDk5LWJmYTItNDI5OC05YTAwLTg4OWVhNDUyZDdjYyIsImMiOjF9
